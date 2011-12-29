@@ -1,0 +1,1 @@
+<h2><?php __('Welcome to Safeless!'); ?></h2>

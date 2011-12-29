@@ -1,0 +1,653 @@
+[03-Apr-2010 23:05:49] PHP Parse error:  syntax error, unexpected ')' in /home/safeless/public_html/dev/functions.php on line 9
+[03-Apr-2010 23:05:53] PHP Parse error:  syntax error, unexpected ')' in /home/safeless/public_html/dev/functions.php on line 9
+[03-Apr-2010 23:06:00] PHP Parse error:  syntax error, unexpected ')' in /home/safeless/public_html/dev/functions.php on line 9
+[03-Apr-2010 23:06:05] PHP Parse error:  syntax error, unexpected ')' in /home/safeless/public_html/dev/functions.php on line 9
+[03-Apr-2010 23:11:12] PHP Fatal error:  Call to undefined function  havenewversion() in /home/safeless/public_html/dev/index.php on line 186
+[03-Apr-2010 23:11:43] PHP Fatal error:  Call to undefined function  havenewversion() in /home/safeless/public_html/dev/index.php on line 186
+[03-Apr-2010 23:43:24] PHP Parse error:  syntax error, unexpected ';' in /home/safeless/public_html/dev/version.php on line 7
+[03-Apr-2010 23:43:26] PHP Parse error:  syntax error, unexpected ';' in /home/safeless/public_html/dev/version.php on line 7
+[03-Apr-2010 23:43:29] PHP Parse error:  syntax error, unexpected ';' in /home/safeless/public_html/dev/version.php on line 7
+[03-Apr-2010 23:44:07] PHP Parse error:  syntax error, unexpected '{' in /home/safeless/public_html/dev/version.php on line 7
+[03-Apr-2010 23:44:09] PHP Parse error:  syntax error, unexpected '{' in /home/safeless/public_html/dev/version.php on line 7
+[03-Apr-2010 23:44:10] PHP Parse error:  syntax error, unexpected '{' in /home/safeless/public_html/dev/version.php on line 7
+[03-Apr-2010 23:44:11] PHP Parse error:  syntax error, unexpected '{' in /home/safeless/public_html/dev/version.php on line 7
+[03-Apr-2010 23:44:11] PHP Parse error:  syntax error, unexpected '{' in /home/safeless/public_html/dev/version.php on line 7
+[03-Apr-2010 23:44:39] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 181
+[03-Apr-2010 23:44:55] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 181
+[03-Apr-2010 23:44:59] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 181
+[17-Apr-2010 23:31:26] PHP Warning:  fileperms() [<a href='function.fileperms'>function.fileperms</a>]: stat failed for .//folder2/../../../../.. in /home/safeless/public_html/dev/index.php on line 367
+[17-Apr-2010 23:31:28] PHP Warning:  fileperms() [<a href='function.fileperms'>function.fileperms</a>]: stat failed for .//folder2/../../../../.. in /home/safeless/public_html/dev/index.php on line 388
+[17-Apr-2010 23:31:52] PHP Warning:  opendir(.//folder2/../../../../fabio) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: Permission denied in /home/safeless/public_html/dev/files.php on line 25
+[17-Apr-2010 23:31:52] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 36
+[17-Apr-2010 23:31:52] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 359
+[17-Apr-2010 23:31:52] PHP Warning:  opendir(.//folder2/../../../../fabio) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: Permission denied in /home/safeless/public_html/dev/files.php on line 42
+[17-Apr-2010 23:31:52] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 53
+[17-Apr-2010 23:31:52] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 380
+[17-Apr-2010 23:34:49] PHP Warning:  opendir(.//folder2/../../../../..) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/safeless/public_html/dev/files.php on line 25
+[17-Apr-2010 23:34:49] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 36
+[17-Apr-2010 23:34:49] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 359
+[17-Apr-2010 23:34:49] PHP Warning:  opendir(.//folder2/../../../../..) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home/safeless/public_html/dev/files.php on line 42
+[17-Apr-2010 23:34:49] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 53
+[17-Apr-2010 23:34:49] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 380
+[17-Apr-2010 23:35:45] PHP Warning:  fileperms() [<a href='function.fileperms'>function.fileperms</a>]: stat failed for .//../ver/../../.htpasswds/../../.. in /home/safeless/public_html/dev/index.php on line 367
+[17-Apr-2010 23:35:47] PHP Warning:  fileperms() [<a href='function.fileperms'>function.fileperms</a>]: stat failed for .//../ver/../../.htpasswds/../../.. in /home/safeless/public_html/dev/index.php on line 388
+[17-Apr-2010 23:39:45] PHP Warning:  fileperms() [<a href='function.fileperms'>function.fileperms</a>]: stat failed for .//../../../.. in /home/safeless/public_html/dev/index.php on line 368
+[17-Apr-2010 23:39:47] PHP Warning:  fileperms() [<a href='function.fileperms'>function.fileperms</a>]: stat failed for .//../../../.. in /home/safeless/public_html/dev/index.php on line 389
+[17-Apr-2010 23:39:49] PHP Warning:  opendir(.//../../../MySQL-install) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: Permission denied in /home/safeless/public_html/dev/files.php on line 25
+[17-Apr-2010 23:39:49] PHP Warning:  opendir(.//../../../MySQL-install) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: Permission denied in /home/safeless/public_html/dev/files.php on line 33
+[17-Apr-2010 23:39:49] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 44
+[17-Apr-2010 23:39:49] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 360
+[17-Apr-2010 23:39:49] PHP Warning:  opendir(.//../../../MySQL-install) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: Permission denied in /home/safeless/public_html/dev/files.php on line 50
+[17-Apr-2010 23:39:49] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 61
+[17-Apr-2010 23:39:49] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 381
+[17-Apr-2010 23:40:14] PHP Warning:  opendir(.//../../../MySQL-install) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: Permission denied in /home/safeless/public_html/dev/files.php on line 33
+[17-Apr-2010 23:40:14] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 44
+[17-Apr-2010 23:40:14] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 360
+[17-Apr-2010 23:40:14] PHP Warning:  opendir(.//../../../MySQL-install) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: Permission denied in /home/safeless/public_html/dev/files.php on line 50
+[17-Apr-2010 23:40:14] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 61
+[17-Apr-2010 23:40:14] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 381
+[17-Apr-2010 23:40:46] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 44
+[17-Apr-2010 23:40:46] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 360
+[17-Apr-2010 23:40:46] PHP Warning:  opendir(.//../../../MySQL-install) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: Permission denied in /home/safeless/public_html/dev/files.php on line 50
+[17-Apr-2010 23:40:46] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 61
+[17-Apr-2010 23:40:46] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 381
+[17-Apr-2010 23:41:30] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 44
+[17-Apr-2010 23:41:30] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 360
+[17-Apr-2010 23:41:30] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 61
+[17-Apr-2010 23:41:30] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 381
+[17-Apr-2010 23:41:38] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 44
+[17-Apr-2010 23:41:38] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 360
+[17-Apr-2010 23:41:38] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 61
+[17-Apr-2010 23:41:38] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 381
+[17-Apr-2010 23:43:49] PHP Warning:  opendir(.//../../../MySQL-install) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: Permission denied in /home/safeless/public_html/dev/files.php on line 33
+[17-Apr-2010 23:43:49] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 44
+[17-Apr-2010 23:43:49] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 361
+[17-Apr-2010 23:43:49] PHP Warning:  opendir(.//../../../MySQL-install) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: Permission denied in /home/safeless/public_html/dev/files.php on line 50
+[17-Apr-2010 23:43:49] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 61
+[17-Apr-2010 23:43:49] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 382
+[17-Apr-2010 23:44:19] PHP Warning:  opendir(.//../../../MySQL-install) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: Permission denied in /home/safeless/public_html/dev/files.php on line 33
+[17-Apr-2010 23:44:19] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 44
+[17-Apr-2010 23:44:19] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 361
+[17-Apr-2010 23:44:19] PHP Warning:  opendir(.//../../../MySQL-install) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: Permission denied in /home/safeless/public_html/dev/files.php on line 50
+[17-Apr-2010 23:44:19] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 61
+[17-Apr-2010 23:44:19] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 382
+[17-Apr-2010 23:44:37] PHP Warning:  opendir(.//../../../MySQL-install) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: Permission denied in /home/safeless/public_html/dev/files.php on line 33
+[17-Apr-2010 23:44:37] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 44
+[17-Apr-2010 23:44:37] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 361
+[17-Apr-2010 23:44:37] PHP Warning:  opendir(.//../../../MySQL-install) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: Permission denied in /home/safeless/public_html/dev/files.php on line 50
+[17-Apr-2010 23:44:37] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 61
+[17-Apr-2010 23:44:37] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 382
+[17-Apr-2010 23:46:45] PHP Warning:  opendir(.//../../../MySQL-install) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: Permission denied in /home/safeless/public_html/dev/files.php on line 33
+[17-Apr-2010 23:46:45] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 44
+[17-Apr-2010 23:46:45] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 363
+[17-Apr-2010 23:46:45] PHP Warning:  opendir(.//../../../MySQL-install) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: Permission denied in /home/safeless/public_html/dev/files.php on line 50
+[17-Apr-2010 23:46:45] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 61
+[17-Apr-2010 23:46:45] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 384
+[17-Apr-2010 23:47:46] PHP Warning:  opendir(.//../../../MySQL-install) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: Permission denied in /home/safeless/public_html/dev/files.php on line 52
+[17-Apr-2010 23:47:46] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/safeless/public_html/dev/files.php on line 63
+[17-Apr-2010 23:47:46] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 384
+[17-Apr-2010 23:48:25] PHP Warning:  fileperms() [<a href='function.fileperms'>function.fileperms</a>]: stat failed for .//../../../MySQL-install/../.. in /home/safeless/public_html/dev/index.php on line 392
+[17-Apr-2010 23:48:58] PHP Warning:  fileperms() [<a href='function.fileperms'>function.fileperms</a>]: stat failed for .//folder1/../../../.htpasswds/../../.. in /home/safeless/public_html/dev/index.php on line 392
+[18-Apr-2010 00:03:45] PHP Warning:  fileperms() [<a href='function.fileperms'>function.fileperms</a>]: stat failed for /home/.. in /home/safeless/public_html/dev/index.php on line 392
+[18-Apr-2010 00:04:39] PHP Warning:  fileperms() [<a href='function.fileperms'>function.fileperms</a>]: stat failed for /home/.. in /home/safeless/public_html/dev/index.php on line 392
+[18-Apr-2010 00:44:40] PHP Warning:  fileperms() [<a href='function.fileperms'>function.fileperms</a>]: stat failed for /home/.. in /home/safeless/public_html/dev/index.php on line 403
+[18-Apr-2010 01:10:59] PHP Warning:  fileperms() [<a href='function.fileperms'>function.fileperms</a>]: stat failed for /home/.. in /home/safeless/public_html/dev/index.php on line 401
+[18-Apr-2010 02:47:40] PHP Warning:  fileperms() [<a href='function.fileperms'>function.fileperms</a>]: stat failed for /home/.. in /home/safeless/public_html/dev/index.php on line 401
+[21-Apr-2010 00:58:03] PHP Parse error:  syntax error, unexpected T_INCLUDE in /home/safeless/public_html/dev/index.php on line 15
+[21-Apr-2010 00:59:08] PHP Warning:  key() [<a href='function.key'>function.key</a>]: Passed variable is not an array or object in /home/safeless/public_html/dev/get.php on line 3
+[21-Apr-2010 00:59:08] PHP Warning:  key() [<a href='function.key'>function.key</a>]: Passed variable is not an array or object in /home/safeless/public_html/dev/get.php on line 3
+[21-Apr-2010 02:05:10] PHP Parse error:  syntax error, unexpected ':' in /home/safeless/public_html/dev/get.php on line 12
+[21-Apr-2010 02:05:41] PHP Parse error:  syntax error, unexpected ':' in /home/safeless/public_html/dev/get.php on line 12
+[21-Apr-2010 02:05:42] PHP Parse error:  syntax error, unexpected ':' in /home/safeless/public_html/dev/get.php on line 12
+[21-Apr-2010 02:05:42] PHP Parse error:  syntax error, unexpected ':' in /home/safeless/public_html/dev/get.php on line 12
+[21-Apr-2010 02:05:43] PHP Parse error:  syntax error, unexpected ':' in /home/safeless/public_html/dev/get.php on line 12
+[21-Apr-2010 02:05:55] PHP Parse error:  syntax error, unexpected ':' in /home/safeless/public_html/dev/get.php on line 14
+[21-Apr-2010 02:05:55] PHP Parse error:  syntax error, unexpected ':' in /home/safeless/public_html/dev/get.php on line 14
+[21-Apr-2010 02:06:09] PHP Fatal error:  Call to a member function dirStatus() on a non-object in /home/safeless/public_html/dev/index.php on line 70
+[21-Apr-2010 02:14:48] PHP Fatal error:  Class 'GetGets' not found in /home/safeless/public_html/dev/languages.php on line 158
+[21-Apr-2010 02:15:24] PHP Fatal error:  Class 'GetGets' not found in /home/safeless/public_html/dev/languages.php on line 158
+[21-Apr-2010 02:15:25] PHP Fatal error:  Class 'GetGets' not found in /home/safeless/public_html/dev/languages.php on line 158
+[21-Apr-2010 02:15:32] PHP Fatal error:  Class 'GetGets' not found in /home/safeless/public_html/dev/languages.php on line 158
+[21-Apr-2010 02:15:33] PHP Fatal error:  Class 'GetGets' not found in /home/safeless/public_html/dev/languages.php on line 158
+[21-Apr-2010 02:15:33] PHP Fatal error:  Class 'GetGets' not found in /home/safeless/public_html/dev/languages.php on line 158
+[21-Apr-2010 02:15:39] PHP Parse error:  syntax error, unexpected '{' in /home/safeless/public_html/dev/get.php on line 35
+[21-Apr-2010 02:16:34] PHP Fatal error:  Class 'GetGets' not found in /home/safeless/public_html/dev/languages.php on line 158
+[21-Apr-2010 02:16:41] PHP Parse error:  syntax error, unexpected '{' in /home/safeless/public_html/dev/get.php on line 35
+[21-Apr-2010 02:17:56] PHP Parse error:  syntax error, unexpected '{' in /home/safeless/public_html/dev/get.php on line 35
+[21-Apr-2010 02:18:21] PHP Fatal error:  Class 'GetGets' not found in /home/safeless/public_html/dev/languages.php on line 158
+[21-Apr-2010 02:18:23] PHP Fatal error:  Class 'GetGets' not found in /home/safeless/public_html/dev/languages.php on line 158
+[21-Apr-2010 02:18:23] PHP Fatal error:  Class 'GetGets' not found in /home/safeless/public_html/dev/languages.php on line 158
+[21-Apr-2010 02:18:24] PHP Fatal error:  Class 'GetGets' not found in /home/safeless/public_html/dev/languages.php on line 158
+[21-Apr-2010 02:18:24] PHP Fatal error:  Class 'GetGets' not found in /home/safeless/public_html/dev/languages.php on line 158
+[21-Apr-2010 02:18:24] PHP Fatal error:  Class 'GetGets' not found in /home/safeless/public_html/dev/languages.php on line 158
+[21-Apr-2010 02:18:24] PHP Fatal error:  Class 'GetGets' not found in /home/safeless/public_html/dev/languages.php on line 158
+[21-Apr-2010 02:19:04] PHP Fatal error:  Class 'GetGets' not found in /home/safeless/public_html/dev/languages.php on line 158
+[21-Apr-2010 02:33:46] PHP Fatal error:  Call to undefined function  pr() in /home/safeless/public_html/dev/get.php on line 58
+[21-Apr-2010 03:04:11] PHP Fatal error:  Class 'GetGets' not found in /home/safeless/public_html/dev/languages.php on line 85
+[21-Apr-2010 03:07:23] PHP Fatal error:  Class 'GetGets' not found in /home/safeless/public_html/dev/languages.php on line 85
+[21-Apr-2010 03:07:42] PHP Fatal error:  Class 'GetGets' not found in /home/safeless/public_html/dev/languages.php on line 85
+[21-Apr-2010 03:20:51] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 03:20:55] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 03:20:59] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 03:21:00] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 03:21:02] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 03:21:04] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 03:24:44] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 04:03:48] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 04:04:07] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 04:04:10] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 04:04:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 04:04:14] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 04:05:49] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 04:05:52] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 04:05:53] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 04:05:55] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 04:05:56] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 04:05:58] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 05:07:44] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 05:08:00] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 05:08:28] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 05:08:32] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 05:09:35] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 05:20:57] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/index.php on line 140
+[21-Apr-2010 05:24:17] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/settings.php on line 5
+[21-Apr-2010 05:24:31] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/settings.php on line 5
+[21-Apr-2010 05:25:19] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/settings.php on line 5
+[21-Apr-2010 05:25:36] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/settings.php on line 5
+[21-Apr-2010 05:25:47] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/settings.php on line 5
+[21-Apr-2010 05:26:10] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/settings.php on line 5
+[22-Apr-2010 11:37:05] PHP Fatal error:  Can't use function return value in write context in /home/safeless/public_html/dev/global.php on line 35
+[22-Apr-2010 11:55:06] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1048576 bytes) in /home/safeless/public_html/dev/global.php on line 45
+[22-Apr-2010 11:55:11] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1048576 bytes) in /home/safeless/public_html/dev/global.php on line 45
+[22-Apr-2010 11:56:38] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1048576 bytes) in /home/safeless/public_html/dev/global.php on line 45
+[22-Apr-2010 11:56:38] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1048576 bytes) in /home/safeless/public_html/dev/global.php on line 45
+[22-Apr-2010 11:56:39] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1048576 bytes) in /home/safeless/public_html/dev/global.php on line 45
+[22-Apr-2010 11:56:40] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1048576 bytes) in /home/safeless/public_html/dev/global.php on line 45
+[22-Apr-2010 12:06:07] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 207 bytes) in /home/safeless/public_html/dev/get.php on line 41
+[22-Apr-2010 12:07:45] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 207 bytes) in /home/safeless/public_html/dev/get.php on line 41
+[23-Apr-2010 20:31:37] PHP Warning:  include(file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 160
+[23-Apr-2010 20:31:37] PHP Warning:  include(file.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 160
+[23-Apr-2010 20:31:37] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'file.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 160
+[23-Apr-2010 20:34:27] PHP Warning:  include(functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 8
+[23-Apr-2010 20:34:27] PHP Warning:  include(functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 8
+[23-Apr-2010 20:34:27] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 8
+[23-Apr-2010 20:34:27] PHP Fatal error:  Call to undefined function  geturl() in /home/safeless/public_html/dev/version.php on line 18
+[23-Apr-2010 20:34:27] PHP Warning:  include(functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 8
+[23-Apr-2010 20:34:27] PHP Warning:  include(functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 8
+[23-Apr-2010 20:34:27] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 8
+[23-Apr-2010 20:37:24] PHP Warning:  include(includes/css.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/includes.php on line 10
+[23-Apr-2010 20:37:24] PHP Warning:  include(includes/css.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/includes.php on line 10
+[23-Apr-2010 20:37:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/css.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/includes.php on line 10
+[23-Apr-2010 20:37:25] PHP Warning:  include(includes/css.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/includes.php on line 10
+[23-Apr-2010 20:37:25] PHP Warning:  include(includes/css.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/includes.php on line 10
+[23-Apr-2010 20:37:25] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/css.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/includes.php on line 10
+[23-Apr-2010 20:37:41] PHP Warning:  include(includes/css.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/includes.php on line 10
+[23-Apr-2010 20:37:41] PHP Warning:  include(includes/css.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/includes.php on line 10
+[23-Apr-2010 20:37:41] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/css.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/includes.php on line 10
+[23-Apr-2010 20:46:48] PHP Fatal error:  Call to undefined function  view_source() in /home/safeless/public_html/dev/file.php on line 4
+[23-Apr-2010 20:47:21] PHP Fatal error:  Call to undefined function  breadcrumb() in /home/safeless/public_html/dev/index.php on line 82
+[23-Apr-2010 20:47:37] PHP Fatal error:  Call to undefined function  breadcrumb() in /home/safeless/public_html/dev/index.php on line 82
+[23-Apr-2010 20:47:44] PHP Fatal error:  Call to undefined function  breadcrumb() in /home/safeless/public_html/dev/index.php on line 82
+[23-Apr-2010 20:47:48] PHP Fatal error:  Call to undefined function  breadcrumb() in /home/safeless/public_html/dev/index.php on line 82
+[23-Apr-2010 20:47:50] PHP Warning:  include(includes/breadcrump.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/includes.php on line 6
+[23-Apr-2010 20:47:50] PHP Warning:  include(includes/breadcrump.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/includes.php on line 6
+[23-Apr-2010 20:47:50] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/breadcrump.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/includes.php on line 6
+[23-Apr-2010 20:47:50] PHP Fatal error:  Call to undefined function  breadcrumb() in /home/safeless/public_html/dev/index.php on line 82
+[23-Apr-2010 20:47:50] PHP Warning:  include(includes/breadcrump.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/includes.php on line 6
+[23-Apr-2010 20:47:50] PHP Warning:  include(includes/breadcrump.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/includes.php on line 6
+[23-Apr-2010 20:47:50] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/breadcrump.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/includes.php on line 6
+[23-Apr-2010 23:36:47] PHP Warning:  _() expects exactly 1 parameter, 2 given in /home/safeless/public_html/dev/settings.php on line 6
+[23-Apr-2010 23:54:41] PHP Fatal error:  Call to a member function dirStatus() on a non-object in /home/safeless/public_html/dev/filemanager.php on line 3
+[24-Apr-2010 00:39:03] PHP Fatal error:  Call to undefined function  location() in /home/safeless/public_html/dev/settings.php on line 2
+[24-Apr-2010 01:49:47] PHP Parse error:  syntax error, unexpected ';' in /home/safeless/public_html/dev/filemanager.php on line 48
+[24-Apr-2010 02:13:02] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/safeless/public_html/dev/includes/icons.php on line 110
+[24-Apr-2010 02:13:38] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/safeless/public_html/dev/includes/icons.php on line 154
+[24-Apr-2010 02:13:39] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/safeless/public_html/dev/includes/icons.php on line 154
+[24-Apr-2010 02:13:40] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/safeless/public_html/dev/includes/icons.php on line 154
+[24-Apr-2010 02:13:40] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/safeless/public_html/dev/includes/icons.php on line 154
+[24-Apr-2010 02:13:40] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/safeless/public_html/dev/includes/icons.php on line 154
+[24-Apr-2010 02:13:40] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/safeless/public_html/dev/includes/icons.php on line 154
+[24-Apr-2010 02:48:09] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 02:48:09] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 02:48:09] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'server.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 03:08:17] PHP Warning:  include(css.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/includes.php on line 12
+[24-Apr-2010 03:08:17] PHP Warning:  include(css.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/includes.php on line 12
+[24-Apr-2010 03:08:17] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'css.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/includes.php on line 12
+[24-Apr-2010 03:08:17] PHP Warning:  include(css.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/includes.php on line 12
+[24-Apr-2010 03:08:17] PHP Warning:  include(css.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/includes.php on line 12
+[24-Apr-2010 03:08:17] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'css.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/includes.php on line 12
+[24-Apr-2010 03:14:36] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 03:14:36] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 03:14:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'server.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 03:14:37] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 03:14:37] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 03:14:37] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'server.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 03:16:25] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 03:16:25] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 03:16:25] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'server.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 03:17:18] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 03:17:18] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 03:17:18] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'server.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 03:17:19] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 03:17:19] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 03:17:19] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'server.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 11:02:42] PHP Fatal error:  Call to undefined function  geturl() in /home/safeless/public_html/dev/includes/version.php on line 17
+[24-Apr-2010 11:12:22] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 11:12:22] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 11:12:22] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'server.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 11:14:11] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 11:14:11] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 11:14:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'server.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 12:14:13] PHP Warning:  show_source(/error_log) [<a href='function.show-source'>function.show-source</a>]: failed to open stream: Permission denied in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 12:14:13] PHP Warning:  show_source() [<a href='function.show-source'>function.show-source</a>]: Failed opening '/error_log' for highlighting in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 12:30:53] PHP Warning:  show_source(/tmp/1IsByscx3d.zip) [<a href='function.show-source'>function.show-source</a>]: failed to open stream: Permission denied in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 12:30:53] PHP Warning:  show_source() [<a href='function.show-source'>function.show-source</a>]: Failed opening '/tmp/1IsByscx3d.zip' for highlighting in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 12:31:27] PHP Warning:  show_source(/tmp/23673a505eefa446-z4quEX) [<a href='function.show-source'>function.show-source</a>]: failed to open stream: Permission denied in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 12:31:27] PHP Warning:  show_source() [<a href='function.show-source'>function.show-source</a>]: Failed opening '/tmp/23673a505eefa446-z4quEX' for highlighting in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 12:32:17] PHP Warning:  show_source(/tmp/316f6e050e47d8a0-EhN04a) [<a href='function.show-source'>function.show-source</a>]: failed to open stream: Permission denied in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 12:32:17] PHP Warning:  show_source() [<a href='function.show-source'>function.show-source</a>]: Failed opening '/tmp/316f6e050e47d8a0-EhN04a' for highlighting in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 12:43:36] PHP Warning:  show_source(/etc/cups/classes.conf) [<a href='function.show-source'>function.show-source</a>]: failed to open stream: Permission denied in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 12:43:36] PHP Warning:  show_source() [<a href='function.show-source'>function.show-source</a>]: Failed opening '/etc/cups/classes.conf' for highlighting in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 12:56:21] PHP Warning:  show_source(/etc/userdomains) [<a href='function.show-source'>function.show-source</a>]: failed to open stream: Permission denied in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 12:56:21] PHP Warning:  show_source() [<a href='function.show-source'>function.show-source</a>]: Failed opening '/etc/userdomains' for highlighting in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 12:56:47] PHP Warning:  show_source(/etc/quota.conf,v) [<a href='function.show-source'>function.show-source</a>]: failed to open stream: Permission denied in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 12:56:47] PHP Warning:  show_source() [<a href='function.show-source'>function.show-source</a>]: Failed opening '/etc/quota.conf,v' for highlighting in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 12:57:41] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 12:57:41] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 12:57:41] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'server.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 12:58:04] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 12:58:04] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 12:58:04] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'server.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 13:17:16] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 13:17:16] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 13:17:16] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'server.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 13:17:34] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 13:17:34] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 13:17:34] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'server.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 13:17:35] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 13:17:35] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 13:17:35] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'server.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 13:42:55] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 13:42:55] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 13:42:55] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'server.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 13:46:45] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 13:46:45] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 13:46:45] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'server.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 17:34:41] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 17:34:41] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 17:34:41] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'server.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 17:36:32] PHP Warning:  show_source(/error_log) [<a href='function.show-source'>function.show-source</a>]: failed to open stream: Permission denied in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 17:36:32] PHP Warning:  show_source() [<a href='function.show-source'>function.show-source</a>]: Failed opening '/error_log' for highlighting in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 17:36:52] PHP Warning:  show_source() [<a href='function.show-source'>function.show-source</a>]: Filename cannot be empty in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 17:36:52] PHP Warning:  show_source() [<a href='function.show-source'>function.show-source</a>]: Failed opening '' for highlighting in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 17:37:16] PHP Warning:  Unexpected character in input:  '' (ASCII=26) state=1 in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 17:37:16] PHP Warning:  Unexpected character in input:  '' (ASCII=5) state=1 in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 17:37:16] PHP Warning:  Unexpected character in input:  ' in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 17:37:16] PHP Warning:  Unexpected character in input:  '' (ASCII=31) state=1 in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 17:37:16] PHP Warning:  Unexpected character in input:  '' (ASCII=7) state=1 in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 17:37:16] PHP Warning:  Unexpected character in input:  '' (ASCII=23) state=1 in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 17:37:16] PHP Warning:  Unexpected character in input:  '' (ASCII=4) state=1 in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 17:37:16] PHP Warning:  Unexpected character in input:  '' (ASCII=28) state=1 in /home/safeless/public_html/dev/file.php on line 5
+[24-Apr-2010 22:25:26] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 22:25:26] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 22:25:26] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'server.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 22:35:55] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 22:35:55] PHP Warning:  include(server.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 22:35:55] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'server.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 70
+[24-Apr-2010 22:39:16] PHP Warning:  include(nolayout.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/includes.php on line 3
+[24-Apr-2010 22:39:16] PHP Warning:  include(nolayout.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/includes.php on line 3
+[24-Apr-2010 22:39:16] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'nolayout.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/includes.php on line 3
+[24-Apr-2010 22:39:16] PHP Warning:  include(nolayout.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/includes.php on line 3
+[24-Apr-2010 22:39:16] PHP Warning:  include(nolayout.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/includes.php on line 3
+[24-Apr-2010 22:39:16] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'nolayout.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/includes.php on line 3
+[24-Apr-2010 22:39:25] PHP Warning:  include(nolayout.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/includes.php on line 3
+[24-Apr-2010 22:39:26] PHP Warning:  include(nolayout.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/includes.php on line 3
+[24-Apr-2010 22:39:26] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'nolayout.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/includes.php on line 3
+[24-Apr-2010 22:39:26] PHP Warning:  include(nolayout.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/includes.php on line 3
+[24-Apr-2010 22:39:26] PHP Warning:  include(nolayout.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/includes.php on line 3
+[24-Apr-2010 22:39:26] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'nolayout.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/includes.php on line 3
+[24-Apr-2010 22:47:57] PHP Fatal error:  Call to undefined function  pr() in /home/safeless/public_html/dev/nolayout.php on line 18
+[24-Apr-2010 22:48:03] PHP Fatal error:  Call to undefined function  pr() in /home/safeless/public_html/dev/nolayout.php on line 18
+[24-Apr-2010 22:48:05] PHP Fatal error:  Call to undefined function  pr() in /home/safeless/public_html/dev/nolayout.php on line 18
+[24-Apr-2010 22:48:06] PHP Fatal error:  Call to undefined function  pr() in /home/safeless/public_html/dev/nolayout.php on line 18
+[24-Apr-2010 22:48:06] PHP Fatal error:  Call to undefined function  pr() in /home/safeless/public_html/dev/nolayout.php on line 18
+[24-Apr-2010 22:48:06] PHP Fatal error:  Call to undefined function  pr() in /home/safeless/public_html/dev/nolayout.php on line 18
+[24-Apr-2010 22:48:06] PHP Fatal error:  Call to undefined function  pr() in /home/safeless/public_html/dev/nolayout.php on line 18
+[24-Apr-2010 22:48:07] PHP Fatal error:  Call to undefined function  pr() in /home/safeless/public_html/dev/nolayout.php on line 18
+[24-Apr-2010 22:48:07] PHP Fatal error:  Call to undefined function  pr() in /home/safeless/public_html/dev/nolayout.php on line 18
+[24-Apr-2010 22:48:07] PHP Fatal error:  Call to undefined function  pr() in /home/safeless/public_html/dev/nolayout.php on line 18
+[24-Apr-2010 22:48:08] PHP Fatal error:  Call to undefined function  pr() in /home/safeless/public_html/dev/nolayout.php on line 18
+[24-Apr-2010 22:48:08] PHP Fatal error:  Call to undefined function  pr() in /home/safeless/public_html/dev/nolayout.php on line 18
+[24-Apr-2010 22:48:08] PHP Fatal error:  Call to undefined function  pr() in /home/safeless/public_html/dev/nolayout.php on line 18
+[24-Apr-2010 22:48:09] PHP Fatal error:  Call to undefined function  pr() in /home/safeless/public_html/dev/nolayout.php on line 18
+[24-Apr-2010 22:48:09] PHP Fatal error:  Call to undefined function  pr() in /home/safeless/public_html/dev/nolayout.php on line 18
+[24-Apr-2010 22:48:09] PHP Fatal error:  Call to undefined function  pr() in /home/safeless/public_html/dev/nolayout.php on line 18
+[24-Apr-2010 22:48:09] PHP Fatal error:  Call to undefined function  pr() in /home/safeless/public_html/dev/nolayout.php on line 18
+[24-Apr-2010 22:48:10] PHP Fatal error:  Call to undefined function  pr() in /home/safeless/public_html/dev/nolayout.php on line 18
+[24-Apr-2010 23:21:04] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 40961 bytes) in /home/safeless/public_html/dev/nolayout.php on line 20
+[24-Apr-2010 23:21:07] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 40961 bytes) in /home/safeless/public_html/dev/nolayout.php on line 20
+[24-Apr-2010 23:21:10] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 40961 bytes) in /home/safeless/public_html/dev/nolayout.php on line 20
+[24-Apr-2010 23:21:18] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 40961 bytes) in /home/safeless/public_html/dev/nolayout.php on line 20
+[24-Apr-2010 23:21:20] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 40961 bytes) in /home/safeless/public_html/dev/nolayout.php on line 20
+[24-Apr-2010 23:21:26] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 40961 bytes) in /home/safeless/public_html/dev/nolayout.php on line 20
+[24-Apr-2010 23:21:28] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:28] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:28] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:28] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:29] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:29] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:29] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:29] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:29] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:29] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:29] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:29] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:29] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:29] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:29] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:29] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:30] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:30] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:30] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:30] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:30] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:30] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:30] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:30] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:33] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:33] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:33] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:33] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:38] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:38] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:39] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:39] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:39] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:39] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:39] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:39] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:40] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:40] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:40] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:40] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:40] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:40] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:40] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:40] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:41] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:41] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:41] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:41] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:42] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:42] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:21:42] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:21:42] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:05] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:05] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:05] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:05] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:08] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:08] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:08] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:08] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:09] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:09] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:09] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:09] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:10] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:10] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:10] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:10] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:10] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:10] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:10] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:10] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:11] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:11] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:11] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:11] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:11] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:11] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:11] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:11] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:11] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:11] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:12] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:12] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:12] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:12] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:12] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:12] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:12] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:12] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:12] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:12] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:12] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:12] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:12] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:12] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:12] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:12] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:12] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:12] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:12] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:12] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:12] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:12] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:12] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:13] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:13] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:13] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:13] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:13] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:13] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:13] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:13] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:13] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:13] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:13] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:13] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:13] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:13] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:13] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:13] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:13] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:13] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:13] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:13] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:13] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:13] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:13] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:13] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:13] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:13] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:13] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:13] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:13] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:13] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:13] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:13] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:13] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:13] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:13] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:13] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:13] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:13] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:15] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:15] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:15] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:15] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:16] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:16] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:16] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:16] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:16] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:16] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:16] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:16] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:16] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:16] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:16] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:16] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:17] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:17] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:17] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:17] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:17] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:17] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:17] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:17] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:17] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:17] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:17] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:17] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:17] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:17] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:22:17] PHP Warning:  Invalid argument supplied for foreach() in /home/safeless/public_html/dev/nolayout.php on line 42
+[24-Apr-2010 23:22:17] PHP Fatal error:  Call to undefined function  havelastversion() in /home/safeless/public_html/dev/nolayout.php on line 46
+[24-Apr-2010 23:42:56] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:42:56] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:42:56] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:42:57] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:42:57] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:42:57] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:43:26] PHP Warning:  include(includes/home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:43:26] PHP Warning:  include(includes/home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:43:26] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:43:27] PHP Warning:  include(includes/home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:43:27] PHP Warning:  include(includes/home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:43:27] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:43:42] PHP Warning:  include(includes/serverinformation.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:43:42] PHP Warning:  include(includes/serverinformation.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:43:42] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/serverinformation.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:43:42] PHP Warning:  include(includes/home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:43:42] PHP Warning:  include(includes/home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:43:42] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:44:15] PHP Warning:  include(includes/filemanager.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:44:15] PHP Warning:  include(includes/filemanager.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:44:15] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/filemanager.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:44:16] PHP Warning:  include(includes/home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:44:16] PHP Warning:  include(includes/home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:44:16] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:44:59] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:44:59] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:44:59] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:46:35] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:46:35] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:46:35] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:46:37] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:46:37] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:46:37] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:46:42] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:46:42] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:46:42] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:47:19] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:47:19] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:47:19] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:47:20] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:47:20] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:47:20] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:47:25] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:47:25] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:47:25] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:47:35] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:47:35] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:47:35] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:47:35] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:47:35] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:47:35] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:47:56] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:47:56] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:47:56] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:48:40] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:48:40] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:48:40] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:48:41] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:48:41] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:48:41] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:48:42] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:48:42] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:48:42] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:49:47] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:49:47] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:49:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/nolayout.php on line 101
+[24-Apr-2010 23:52:38] PHP Fatal error:  Cannot redeclare geticon() (previously declared in /home/safeless/public_html/dev/includes/icons.php:109) in /home/safeless/public_html/dev/includes/icons.php on line 121
+[24-Apr-2010 23:53:33] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 93
+[24-Apr-2010 23:53:33] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 93
+[24-Apr-2010 23:53:33] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 93
+[24-Apr-2010 23:53:52] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 93
+[24-Apr-2010 23:53:52] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 93
+[24-Apr-2010 23:53:52] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 93
+[24-Apr-2010 23:57:30] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 94
+[24-Apr-2010 23:57:30] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 94
+[24-Apr-2010 23:57:30] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 94
+[24-Apr-2010 23:58:48] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 94
+[24-Apr-2010 23:58:48] PHP Warning:  include(home.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 94
+[24-Apr-2010 23:58:48] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'home.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 94
+[25-Apr-2010 00:02:20] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 94
+[25-Apr-2010 00:02:20] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 94
+[25-Apr-2010 00:02:20] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 94
+[25-Apr-2010 00:02:44] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 94
+[25-Apr-2010 00:02:44] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 94
+[25-Apr-2010 00:02:44] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 94
+[25-Apr-2010 00:53:13] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 95
+[25-Apr-2010 00:53:13] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 95
+[25-Apr-2010 00:53:13] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 95
+[25-Apr-2010 05:26:55] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 95
+[25-Apr-2010 05:26:55] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 95
+[25-Apr-2010 05:26:55] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 95
+[26-Apr-2010 07:27:44] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 95
+[26-Apr-2010 07:27:44] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 95
+[26-Apr-2010 07:27:44] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 95
+[26-Apr-2010 08:30:39] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 95
+[26-Apr-2010 08:30:39] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 95
+[26-Apr-2010 08:30:39] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 95
+[26-Apr-2010 11:52:09] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 95
+[26-Apr-2010 11:52:10] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 95
+[26-Apr-2010 11:52:10] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 95
+[26-Apr-2010 14:13:46] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 95
+[26-Apr-2010 14:13:46] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 95
+[26-Apr-2010 14:13:46] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 95
+[02-May-2010 05:14:14] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 95
+[02-May-2010 05:14:14] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 95
+[02-May-2010 05:14:14] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 95
+[03-May-2010 01:56:31] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 95
+[03-May-2010 01:56:31] PHP Warning:  include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/index.php on line 95
+[03-May-2010 01:56:31] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/safeless/public_html/dev/index.php on line 95
+[03-May-2010 13:30:57] PHP Warning:  show_source() [<a href='function.show-source'>function.show-source</a>]: Filename cannot be empty in /home/safeless/public_html/dev/file.php on line 6
+[03-May-2010 13:30:57] PHP Warning:  show_source() [<a href='function.show-source'>function.show-source</a>]: Failed opening '' for highlighting in /home/safeless/public_html/dev/file.php on line 6
+[03-May-2010 13:32:58] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 25642941 bytes) in /home/safeless/public_html/dev/index.php on line 99
+[05-May-2010 19:46:26] PHP Warning:  show_source(/usr/local/apache/conf/httpd.conf) [<a href='function.show-source'>function.show-source</a>]: failed to open stream: Permission denied in /home/safeless/public_html/dev/file.php on line 6
+[05-May-2010 19:46:26] PHP Warning:  show_source() [<a href='function.show-source'>function.show-source</a>]: Failed opening '/usr/local/apache/conf/httpd.conf' for highlighting in /home/safeless/public_html/dev/file.php on line 6
+[05-May-2010 19:46:33] PHP Warning:  file_get_contents(/usr/local/apache/conf/httpd.conf) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Permission denied in /home/safeless/public_html/dev/fileedit.php on line 7
+[05-May-2010 19:46:37] PHP Warning:  show_source(/usr/local/apache/conf/httpd.conf,v) [<a href='function.show-source'>function.show-source</a>]: failed to open stream: Permission denied in /home/safeless/public_html/dev/file.php on line 6
+[05-May-2010 19:46:37] PHP Warning:  show_source() [<a href='function.show-source'>function.show-source</a>]: Failed opening '/usr/local/apache/conf/httpd.conf,v' for highlighting in /home/safeless/public_html/dev/file.php on line 6
+[05-May-2010 19:46:42] PHP Warning:  show_source(/usr/local/apache/conf/httpd.conf) [<a href='function.show-source'>function.show-source</a>]: failed to open stream: Permission denied in /home/safeless/public_html/dev/file.php on line 6
+[05-May-2010 19:46:42] PHP Warning:  show_source() [<a href='function.show-source'>function.show-source</a>]: Failed opening '/usr/local/apache/conf/httpd.conf' for highlighting in /home/safeless/public_html/dev/file.php on line 6
+[05-May-2010 19:47:12] PHP Warning:  show_source(/usr/local/apache/conf/httpd.conf.bak) [<a href='function.show-source'>function.show-source</a>]: failed to open stream: Permission denied in /home/safeless/public_html/dev/file.php on line 6
+[05-May-2010 19:47:12] PHP Warning:  show_source() [<a href='function.show-source'>function.show-source</a>]: Failed opening '/usr/local/apache/conf/httpd.conf.bak' for highlighting in /home/safeless/public_html/dev/file.php on line 6
+[05-May-2010 19:47:17] PHP Warning:  show_source(/usr/local/apache/conf/httpd.conf.ea-orig) [<a href='function.show-source'>function.show-source</a>]: failed to open stream: Permission denied in /home/safeless/public_html/dev/file.php on line 6
+[05-May-2010 19:47:17] PHP Warning:  show_source() [<a href='function.show-source'>function.show-source</a>]: Failed opening '/usr/local/apache/conf/httpd.conf.ea-orig' for highlighting in /home/safeless/public_html/dev/file.php on line 6
+[14-May-2010 22:24:51] PHP Warning:  show_source(/home/safeless/public_html/dev/nolayout.php) [<a href='function.show-source'>function.show-source</a>]: failed to open stream: No such file or directory in /home/safeless/public_html/dev/file.php on line 6
+[14-May-2010 22:24:51] PHP Warning:  show_source() [<a href='function.show-source'>function.show-source</a>]: Failed opening '/home/safeless/public_html/dev/nolayout.php' for highlighting in /home/safeless/public_html/dev/file.php on line 6

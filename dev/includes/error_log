@@ -1,0 +1,12 @@
+[23-Apr-2010 23:40:35] PHP Parse error:  syntax error, unexpected T_PRINT, expecting T_STRING in /home/safeless/public_html/dev/includes/icons.php on line 6
+[24-Apr-2010 01:30:55] PHP Fatal error:  Using $this when not in object context in /home/safeless/public_html/dev/includes/icons.php on line 67
+[24-Apr-2010 01:34:09] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 853 bytes) in /home/safeless/public_html/dev/includes/icons.php on line 51
+[24-Apr-2010 01:34:34] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 537 bytes) in /home/safeless/public_html/dev/includes/icons.php on line 40
+[24-Apr-2010 01:34:35] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 537 bytes) in /home/safeless/public_html/dev/includes/icons.php on line 40
+[24-Apr-2010 01:34:36] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 537 bytes) in /home/safeless/public_html/dev/includes/icons.php on line 40
+[24-Apr-2010 01:34:46] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/safeless/public_html/dev/includes/icons.php on line 93
+[24-Apr-2010 01:34:47] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/safeless/public_html/dev/includes/icons.php on line 93
+[24-Apr-2010 01:34:48] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/safeless/public_html/dev/includes/icons.php on line 93
+[24-Apr-2010 01:34:49] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 32 bytes) in /home/safeless/public_html/dev/includes/icons.php on line 93
+[24-Apr-2010 01:37:34] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 933 bytes) in /home/safeless/public_html/dev/includes/icons.php on line 52
+[24-Apr-2010 01:37:36] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 933 bytes) in /home/safeless/public_html/dev/includes/icons.php on line 52
